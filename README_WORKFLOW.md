@@ -114,3 +114,5 @@ pm2 restart energee-com-br-dev
 
 **💡 Dica:** Use `./deploy.sh` no servidor para deploy automático com um comando!
 
+teste
+
